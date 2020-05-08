@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="txtValor1">Numero 1</string>
+    <string name="txtValor2">Numero 2</string>
+    <string name="btnSuma">+</string>
+    <string name="btnResta">-</string>
+    <string name="btnMultiplicacion">*</string>
+    <string name="btnDivision">/</string>
 </resources>
